@@ -249,7 +249,7 @@ def lambda_handler(event, context):
     
     SENDER = 'mamabolomokgobola@gmail.com'
  
-    RECIPIENT = dec_dict['email']
+    RECIPIENT = edsa.predict@explore-ai.net.
   
     SUBJECT = f"Data Science Portfolio Project Website - Hello {dec_dict['name']}"
    
